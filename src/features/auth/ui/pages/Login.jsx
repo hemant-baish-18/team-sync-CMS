@@ -159,7 +159,7 @@ const Login = () => {
           </p>
 
           <p className="text-xs text-gray-500">
-             Customized by <span className="font-semibold">Hemant Baish</span>
+            Customized by <span className="font-semibold">Hemant Baish</span>
           </p>
         </div>
       </div>
