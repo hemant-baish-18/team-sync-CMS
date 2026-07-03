@@ -29,7 +29,7 @@ const Login = () => {
             <Cloud size={30} className="text-white" />
           </div>
 
-          <h1 className="text-white text-4xl font-bold mt-6">team-sync</h1>
+          <h1 className="text-white text-4xl font-bold mt-6">Welcome to Team Sync CMS</h1>
 
           <p className="text-gray-400 mt-2 text-lg">
             Sign in to your workspace
@@ -152,6 +152,14 @@ const Login = () => {
             >
               Sign Up
             </span>
+          </p>
+
+          <p className="mt-6 text-xs text-gray-500">
+            © 2026 Team Sync CMS
+          </p>
+
+          <p className="text-xs text-gray-500">
+             Customized by <span className="font-semibold">Hemant Baish</span>
           </p>
         </div>
       </div>

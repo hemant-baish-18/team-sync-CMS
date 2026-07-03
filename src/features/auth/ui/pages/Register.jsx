@@ -243,6 +243,14 @@ const Register = () => {
                   Log In
                 </span>
               </p>
+              
+              <p className="mt-6 text-xs text-gray-500">
+                 © 2026 Team Sync CMS
+              </p>
+              
+              <p className="text-xs text-gray-500">
+                Customized by <span className="font-semibold">Hemant Baish</span>
+              </p>
             </form>
           </div>
         </div>
